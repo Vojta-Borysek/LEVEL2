@@ -1,0 +1,12 @@
+pes	3	1
+pes	3	1
+pes	3	1
+pes	3	1
+pes	3	1
+jezevec	7	3
+jezevec	7	3
+jezevec	7	3
+jezevec	7	3
+kočka	5	2
+kočka	5	2
+kočka	5	2
